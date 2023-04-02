@@ -1,0 +1,202 @@
+[
+    {
+        "id": "01",
+        "titulo": "Bondiola Ahumada -Uni.",
+        "imagen": "./assent/image/catalogo/01.jpg",
+        "categoria": {
+            "nombre": "Caseros",
+            "id": "caseros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "02",
+        "titulo": "Salamin Picado Fino -Uni.",
+        "imagen": "./assent/image/catalogo/02.jpg",
+        "categoria": {
+            "nombre": "Caseros",
+            "id": "caseros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "03",
+        "titulo": "Queso Colonia -Uni.",
+        "imagen": "./assent/image/catalogo/03.jpg",
+        "categoria": {
+            "nombre": "Caseros",
+            "id": "caseros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "04",
+        "titulo": "Alfajores Sierra de Minas",
+        "imagen": "./assent/image/catalogo/04.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "09",
+        "titulo": "Salsa Para Puchero",
+        "imagen": "./assent/image/catalogo/09.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "06",
+        "titulo": "Mermelada de Zapallo",
+        "imagen": "./assent/image/catalogo/06.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "07",
+        "titulo": "Mermemada de Frutilla",
+        "imagen": "./assent/image/catalogo/07.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "08",
+        "titulo": "Miel de Sierra",
+        "imagen": "./assent/image/catalogo/08.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "05",
+        "titulo": "Hongos Encurtidos",
+        "imagen": "./assent/image/catalogo/05.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "11",
+        "titulo": "Cuero de Vaca Holando - 2.0m x 1.50 aprox.",
+        "imagen": "./assent/image/catalogo/11.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "12",
+        "titulo": "Cuero de Vaca Norlando - 2.1m x 1.40 aprox.",
+        "imagen": "./assent/image/catalogo/12.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "14",
+        "titulo": "Pelego Negro",
+        "imagen": "./assent/image/catalogo/14.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "13",
+        "titulo": "Pelgo Blanco",
+        "imagen": "./assent/image/catalogo/13.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "10",
+        "titulo": "Cuchillo de Plata y Oro 30 cm",
+        "imagen": "./assent/image/catalogo/10.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "15",
+        "titulo": "Mate de Plata y Oro",
+        "imagen": "./assent/image/catalogo/15.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "16",
+        "titulo": "Poncho",
+        "imagen": "./assent/image/catalogo/16.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "17",
+        "titulo": "Recado Completo",
+        "imagen": "./assent/image/catalogo/17.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "18",
+        "titulo": "Alpargatas de Cuero de Cerdo",
+        "imagen": "./assent/image/catalogo/18.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "19",
+        "titulo": "Botas de Cuero de Potro - Talles 38 al 44",
+        "imagen": "./assent/image/catalogo/19.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    },
+    {
+        "id": "20",
+        "titulo": "Bombilla Plata y Oro -Uni.",
+        "imagen": "./assent/image/catalogo/20.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": ""
+        },
+        "precio": 1000
+    }
+]
